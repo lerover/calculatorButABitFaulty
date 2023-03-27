@@ -75,12 +75,13 @@ button {
 }
 
 .input_number,
-.input_number1,
-.show_operator{
-    width: 15%;
+.input_number1{
+    width: 70%;
     border: none;
 }
-
+.show_operator{
+    border: none;
+}
 .result{
     width: 25%;
     height: 32px;
