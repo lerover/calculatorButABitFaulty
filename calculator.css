@@ -77,10 +77,14 @@ button {
 .input_number,
 .input_number1{
     width: 70%;
+    height: 50px;
     border: none;
     outline: none;
+
+    
 }
 .show_operator{
+    height: 50px;
     border: none;
 }
 .result{
