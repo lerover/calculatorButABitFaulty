@@ -78,6 +78,7 @@ button {
 .input_number1{
     width: 70%;
     border: none;
+    outline: none;
 }
 .show_operator{
     border: none;
